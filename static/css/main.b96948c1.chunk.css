@@ -1,0 +1,2 @@
+.App{display:-webkit-flex;display:flex;-webkit-flex-direction:column;flex-direction:column;-webkit-align-items:center;align-items:center}.goods__title{-webkit-justify-content:space-between;justify-content:space-between}.goods__list,.goods__title{width:400px;display:-webkit-flex;display:flex}.goods__list{-webkit-flex-direction:column;flex-direction:column;grid-gap:5px;gap:5px}.goods__item{height:30px;border:none;border-radius:3px}.removeButton{background-color:rgba(255,0,0,.8)}.active{background:#9acd32}
+/*# sourceMappingURL=main.b96948c1.chunk.css.map */
